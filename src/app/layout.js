@@ -2,6 +2,7 @@ import './globals.css'
 import Navbar from './components/Navbar'
 import Contact from './components/Contact'
 import Header from './components/Header'
+
 import Projects from './components/Projects'
 import Techstack from './components/Techstack'
 import { Inter } from 'next/font/google'

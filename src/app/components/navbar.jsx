@@ -7,9 +7,9 @@ const navbar = () => {
         <a target="_blank" href="https://hashnode.com/@jagadishthati">
         <div className="list  hover:border-b-4 border-indigo-500 "> BLOG</div>
         </a>
-      <a target="_blank" href="https://www.findcoder.io/u/thatijagadish">
+      {/* <a target="_blank" href="https://www.findcoder.io/u/thatijagadish"> */}
           <div className="list  hover:border-b-4 border-indigo-500 "> PROJECTS </div>
-        </a>
+        {/* </a> */}
     </div>
   </>
   )

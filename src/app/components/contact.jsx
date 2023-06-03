@@ -9,7 +9,7 @@ const contact = () => {
   return (
     <div className='flex justify-center items-center flex-col gap-3 mt-4'>
         <h1 className='text-2xl font-bold'> My Contacts</h1>
-     <div className="socialMedia flex gap-4 items-center justify-center cursor-pointer ">
+     <div className="socialMedia flex gap-4 items-center justify-center cursor-pointer md:flex  flex-wrap">
      <a target="_blank" href="mailto:ajjagadish13@gmail.com">
 <MdEmail size={'3em'}/>
 </a>
