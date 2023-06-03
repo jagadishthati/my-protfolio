@@ -57,15 +57,12 @@ const projects = ({img,title,GithubLink,LiveLink}) => {
         {title}
       </div>
       <div className="cardButtons flex gap-4">
-        {/* <Link href= {GithubLink}> */}
           <a href={GithubLink} target='_blank'>
 
           <button className="button bg-teal-500 p-2  rounded-lg  text-white">
             GitHub
           </button>
           </a>
-        {/* </Link> */}
-        {/* <Link href="LiveLink"> */}
         <a href={LiveLink} target='_blank'>
                   <button className="button bg-teal-500 p-2  rounded-lg  text-white">
                     liveLink
