@@ -10,15 +10,15 @@ const techstack = () => {
         </div>
     <div className="images flex gap-4 md:flex  flex-wrap">
            <Image src="/html-5.png" width={0} height={0} sizes="100vw"
-  style={{ width: '15vh', height: 'auto' }} ></Image>
+  style={{ width: '15vh', height: 'auto' }}  alt='html'></Image>
            <Image src="/css-3.png"width={0} height={0} sizes="100vw"
-  style={{ width: '15vh', height: 'auto' }}></Image>
+  style={{ width: '15vh', height: 'auto' }} alt='Css'></Image>
            <Image src="/java-script.png"width={0} height={0} sizes="100vw"
-  style={{ width: '15vh', height: 'auto' }}></Image>
+  style={{ width: '15vh', height: 'auto' }} alt='javascript'></Image>
            <Image src="/physics.png"width={0} height={0} sizes="100vw"
-  style={{ width: '15vh', height: 'auto' }}></Image>
+  style={{ width: '15vh', height: 'auto' }} alt='react'></Image>
            <Image src="/next.svg"width={0} height={0} sizes="100vw"
-  style={{ width: '15vh', height: 'auto' }}></Image>
+  style={{ width: '15vh', height: 'auto' }} alt='nextjs'></Image>
 
     </div>
     </div>
