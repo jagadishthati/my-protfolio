@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
         <Techstack/>
           <h1 className='text-2xl font-bold text-center mt-4 mb-4 '>My Projects</h1>
         <div className="projects-container flex gap-4 justify-center items-center  md:flex  flex-wrap">
-        <Projects img="/shopify.png" title="ShopifyClone" GithubLink="https://github.com/jagadishthati/Shopify" LiveLink="https://shopify-iota.vercel.app/"/>
+        <Projects img="/Protfolio.png" title="LocalKart" GithubLink="https://github.com/jagadishthati/LocalKart" LiveLink="https://local-kart.vercel.app/"/>
         <Projects img="/rode.png" title ="RodeClone" GithubLink="https://github.com/jagadishthati/rodeclone" LiveLink="https://rodeclone-six.vercel.app/"/>
 
         </div>
